@@ -17,7 +17,7 @@
     "abcjs": "^5.8.0",
     "diff-match-patch": "^1.0.4",
     "echarts": "^4.2.1",
-    "highlight.js": "^9.15.9",
+    "highlight.js": "^10.4.1",
     "katex": "^0.10.2",
     "mermaid": "^8.2.3",
     "turndown": "^5.0.3"
